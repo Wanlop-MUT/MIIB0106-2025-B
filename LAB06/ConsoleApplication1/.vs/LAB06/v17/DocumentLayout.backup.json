@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\Software En\\MIIB0106-2025-B\\LAB06\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{240E30A0-31BC-4B21-953A-825C6BD27817}|..\\LAB0604\\LAB0604.vcxproj|D:\\Learning\\Software En\\MIIB0106-2025-B\\LAB06\\LAB0604\\LAB0604.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C5F4D1-6727-426A-81AE-86092CDA435F}|..\\Lab0601\\Lab0601.vcxproj|D:\\Learning\\Software En\\MIIB0106-2025-B\\LAB06\\Lab0601\\Lab0601.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A900EE-52B7-42DB-A1F8-8C23269531DF}|..\\LAB0603\\LAB0603.vcxproj|D:\\Learning\\Software En\\MIIB0106-2025-B\\LAB06\\LAB0603\\LAB0603.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41916DEA-C36B-4944-A7B4-A040F7CC0A9D}|..\\LAB0602\\LAB0602.vcxproj|D:\\Learning\\Software En\\MIIB0106-2025-B\\LAB06\\LAB0602\\LAB0602.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C99FFE-C3F4-42B3-B425-4DE9C50BD0A2}|ConsoleApplication1.vcxproj|D:\\Learning\\Software En\\MIIB0106-2025-B\\LAB06\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58C99FFE-C3F4-42B3-B425-4DE9C50BD0A2}|ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB0604.cpp",
+              "DocumentMoniker": "D:\\Learning\\Software En\\MIIB0106-2025-B\\LAB06\\LAB0604\\LAB0604.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0604\\LAB0604.cpp",
+              "ToolTip": "D:\\Learning\\Software En\\MIIB0106-2025-B\\LAB06\\LAB0604\\LAB0604.cpp*",
+              "RelativeToolTip": "..\\LAB0604\\LAB0604.cpp*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T09:53:29.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LAB0603.cpp",
+              "DocumentMoniker": "D:\\Learning\\Software En\\MIIB0106-2025-B\\LAB06\\LAB0603\\LAB0603.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0603\\LAB0603.cpp",
+              "ToolTip": "D:\\Learning\\Software En\\MIIB0106-2025-B\\LAB06\\LAB0603\\LAB0603.cpp",
+              "RelativeToolTip": "..\\LAB0603\\LAB0603.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T09:22:59.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LAB0602.cpp",
+              "DocumentMoniker": "D:\\Learning\\Software En\\MIIB0106-2025-B\\LAB06\\LAB0602\\LAB0602.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0602\\LAB0602.cpp",
+              "ToolTip": "D:\\Learning\\Software En\\MIIB0106-2025-B\\LAB06\\LAB0602\\LAB0602.cpp",
+              "RelativeToolTip": "..\\LAB0602\\LAB0602.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T09:18:37.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab0601.cpp",
+              "DocumentMoniker": "D:\\Learning\\Software En\\MIIB0106-2025-B\\LAB06\\Lab0601\\Lab0601.cpp",
+              "RelativeDocumentMoniker": "..\\Lab0601\\Lab0601.cpp",
+              "ToolTip": "D:\\Learning\\Software En\\MIIB0106-2025-B\\LAB06\\Lab0601\\Lab0601.cpp",
+              "RelativeToolTip": "..\\Lab0601\\Lab0601.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T09:16:34.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "D:\\Learning\\Software En\\MIIB0106-2025-B\\LAB06\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1.cpp",
+              "ToolTip": "D:\\Learning\\Software En\\MIIB0106-2025-B\\LAB06\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "ConsoleApplication1.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T08:47:33.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
